@@ -1,0 +1,4264 @@
+{
+    "guilds": {
+        "1068131925425922088": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1070018946004176916"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "Hey <<user.mention>> Welcome",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1059713051554742322": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1059713157582565416": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1059713141564514374": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1059565518559920169": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1059671596681404436": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1091677491422298142": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "877837063532191775": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1071796759677907006": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "877276106745593926": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1074000487579394198": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1075245646480683038": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1076785229492142121": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1067482187068350569": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1067765704830488609"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>\nNow We Have <<server.member_count>> <:Nx_slayer_ka_bacha:1092692491909730305>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": [
+                    "1067482187299049510"
+                ]
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1076347640536637490": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1056273394389237880": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "852501403087667240": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1039928568253272124": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "974662407202930708": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [
+                    "1075410944538185778"
+                ],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1000892963515277363": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1093767519036248076": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [
+                    "1093776093644849222"
+                ],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "984039223797620776": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "828300719303426118": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1094259655359860756": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1095043452284186634"
+                ],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://cdn.discordapp.com/attachments/1094260939303424180/1095347525566877766/b780cf63f2c0402fea2a76c0322c99a1.jpg",
+                "message": "Hi :nitro_pepe:Hello {mention} Welcome To Our {server}\n\nGlad u enjoy it here make a frnds 😊\n\nRead \nEntry : <#1095043452284186634>\n\nFollow : <#1095043694337470586>\n\nChat here : <#1094260939303424180>\n         \n                    It's it make a frnds ❤️ \nAnd enjoy it 😉.                                  Byee",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [
+                    "1094490262476169319"
+                ],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1094970595696976052": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1156500031302537236": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1167688001632075828": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1167688002252853250"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1167688002252853250/1173169144418545695/Picsart_23-11-12_10-07-30-575.png?ex=6562f9e8&is=655084e8&hm=48d9c6b2e7d5b41a317b0948d00e9e650ffc20333fe9f3bf0c2efcc0b33c0895&",
+                "message": "**__ .<<user.mention>> HI WELCOME TO<<server.name>> Your <<server.member_count>>th Member__**",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": [
+                    "1173123841623601292"
+                ]
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1175416003505688607": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1177229178223984640": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1219251889468870656"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**╭╯ ﹒ :Heart1:  Welcome to 🥤. N ! G H T M A R Ξ ™  .   Tysm  For  Joining !! ﹒:Heart1: ♡\n\n:xo_flowers9: :un_dot: [Self Roles](https://discord.com/channels/1177229178223984640/1177230138186940436) :un_dot: [Events](https://discord.com/channels/1177229178223984640/1177230152963473481) :un_dot: [Chats](https://discord.com/channels/1177229178223984640/1177230163612803114) :un_dot: :xo_flowers9:**",
+                "ping": true,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [
+                    "1177230046776270889"
+                ],
+                "humans": [
+                    "1177230045866111089"
+                ]
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": 1177230003159711774
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1200085405622599761": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1100448469656813630": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1221862929062694933": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1220278982650499073": {
+            "welcome": {
+                "autodel": "3",
+                "channel": [
+                    "1220280954925486092"
+                ],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": true,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1148916790227906601": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1220980758001352725": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1196107950775861289": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1218358071118663690": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1155409195525476412": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1218406890464350348": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1162402785493536939": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1142388745484652715": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1205098896049836052": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1141663814924898384": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1223921708029972540": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1225674661011132438": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1225830043742371880": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1210798648045338715": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1079371367683735634": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1226227474447208528": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1226266966176563293"
+                ],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": true,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [
+                    "1226266861851770951"
+                ],
+                "humans": [
+                    "1226266873734103050"
+                ]
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1128595408260698186": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1214222053536825414": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1181603929650368573": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1150323461571481600": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1220812682739978251": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1223537369874169886": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1224002541038207046": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1075834203310149683": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1227282125439369256": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1228987355919028315": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1228861336184688671": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1228635819183570985": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1211565811496521738": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1229666407999078490": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1228930009243320363": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1228897042030399529": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1228980403671662614": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1229128235212738670": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1108388667971612682": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1230598001563795478": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1229712545485557780": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1230799260099022879": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1137418793791008808": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1145246833610866728": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1231558309748805776": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1231457815621795982": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1231890736732045322": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1231977915806126231": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1220944207729000629": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1232580922067648533": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1211998786654830592": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1211998786692456516"
+                ],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": ".greet channel",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "992402119116214313": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1228823271298961478": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1231533223486427167": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1033636081356251176": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1089053538866434178": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1233072099124580435": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1087345949065617499": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1234133236976717854": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1234455448946741299": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1199670119744421928": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1101016294238736514": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1052150999629963314": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1234757537807466496": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1215995840837980170": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1234731585006473287": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1222774453541535764": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1235598801448865984": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1010146387062698015": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1235549113920262235": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1228936842959655003": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1212694742807089192": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1110439833400246292": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1231807673003937863": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1192337162390229042": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1235100515147190292": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1236912531927339008": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1235779195184087121": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1232881625721995385": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1236013895156633620": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1232705981125886083": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1237802649449922681": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1239531351430926449": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1190116453043671101": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1228291087907557437": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1196330432271229050": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1241694854631784448": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1228735726292701345": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1130095551283736666": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1242375919025393706": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1241001805320552498": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1239442774441328710": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1243048159547228180": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1243566572539351040": {
+            "welcome": {
+                "autodel": "3s",
+                "channel": [
+                    "1243567606057668760"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "Enjoy Your Stay here",
+                "image": "https://media.discordapp.net/attachments/1232316267017277552/1243795447101784085/b141dcd831dbb9bee0964032bdabad89.png?ex=6652c647&is=665174c7&hm=7982c443d589cc21049c827170a886c8f6bc1e0307b3eb95ac2d4be459b65acc&",
+                "message": "**•** - Welcome to **RainyDay Shop**.\n**•** - We hope you'll enjoy your stay here.\n**•** - You Are **9**th Member Enjoy!!.",
+                "ping": true,
+                "title": "",
+                "thumbnail": "https://media.discordapp.net/attachments/1232316267017277552/1243795447101784085/b141dcd831dbb9bee0964032bdabad89.png?ex=6652c647&is=665174c7&hm=7982c443d589cc21049c827170a886c8f6bc1e0307b3eb95ac2d4be459b65acc&"
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1243863500825296927": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1243216879552561263": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1242390711899394089": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1234063076685516901": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1221788752444395570": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1131209916758114305/1131843467253927997/THANKS_FOR_JOIN_US__THANKS_FOR_YOUR_LOVING_SUPPORT.gif",
+                "message": "**•** - Welcome to **<<server.name>>**.\n**•** - We hope you'll enjoy your stay here.\n**•** - Don't forget to checkout Akito bot <@1173097825614180463> .\n**•** - You Are **<<server.member_count>>**th Member Enjoy!!.",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        }
+    }
+}
